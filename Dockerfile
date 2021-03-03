@@ -9,3 +9,4 @@ RUN conda config --add channels conda-forge && \
 RUN conda install -c bioconda virsorter=2
 
 Run virsorter setup -d db -j 4
+## virsorter version 2.1
